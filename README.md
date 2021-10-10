@@ -1,9 +1,10 @@
-# AngularCrud
+# <p style="text-align: center;">AngularCrud</p>
 
-Just a simple CRUD written in angular.<br>
-A special thanks to `https://github.com/angular/angular/blob/master/.gitignore`. I'm very happy to have most of the angulars bloat already added in a gitignore that I can simply plug into this project.<br><br>
+**<p style="text-align: center;">Just a simple CRUD written in angular.</p>**
 
-This project uses `https://github.com/typicode/json-server` as a backend json server to hold data. `/db.json` holds the data. To install this server run `npm install json-server` or `npm install -g json-server` for a global install. `package.json` has been set for `"server": "json-server --watch db.json --port 5000"` so type `npm run server` to get the json backend running.<br><br><br><br>
+This project uses `https://github.com/typicode/json-server` as a backend json server to hold data. `/db.json` holds the data. To install this server run `npm install json-server` or `npm install -g json-server` for a global install. `package.json` has been set for `"server": "json-server --watch db.json --port 5000"` so type `npm run server` to get the json backend running.<br><br>
+A special thanks to `https://github.com/angular/angular/blob/master/.gitignore`. I'm very happy to have most of the angulars bloat already added in a gitignore that I can simply plug into this project.<br><br><br><br>
+***
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
 
